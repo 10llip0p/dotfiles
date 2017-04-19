@@ -1,4 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/Users/yuto/Desktop/hoge'
 let g:netrw_dirhist_2='/Users/yuto/.vim/bundle'
+let g:netrw_dirhist_3='/Users/yuto/.emacs.d'
+let g:netrw_dirhist_4='/Users/yuto/hoge'
+let g:netrw_dirhist_5='/Users/yuto/develop/node/blog/node_modules'
+let g:netrw_dirhist_6='/Users/yuto/develop/node/blog/.git'
+let g:netrw_dirhist_7='/Users/yuto/develop/web/github_pages/.git/info'
+let g:netrw_dirhist_8='/Users/yuto/develop/lecture/db2/code4students'

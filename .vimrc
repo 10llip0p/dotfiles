@@ -40,6 +40,7 @@ set cursorline
 set tabstop=4
 set autoindent
 set expandtab
+set softtabstop=4
 set shiftwidth=4
 set t_Co=256
 colorscheme railscasts
@@ -75,12 +76,10 @@ inoremap <C-H>	<LEFT>
 inoremap <C-J>	<DOWN>
 inoremap <C-K>	<UP>
 inoremap <C-L>	<RIGHT>
-inoremap <C-[> <esc>
-vnoremap <C-[> <esc>
-noremap <Space>j ^
-noremap <Space>k $
-noremap <Space>h gg
-noremap <Space>l G
+noremap <Space>j G
+noremap <Space>k gg
+noremap <Space>h ^
+noremap <Space>l $
 
 "---------------------
 "end KeyMappings
