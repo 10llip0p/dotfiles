@@ -36,7 +36,7 @@ export PATH="$PATH:/Users/yuto/Library/Android/sdk/platform-tools"
 
 export PATH=$HOME/.nodebrew/current/bin:$PATH
 
-export PATH="$PATH:/Users/yuto/develop/script"
+export PATH="$PATH:/Users/yuto/develop/scripts"
 
 # OPAM configuration
 . /Users/yuto/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
